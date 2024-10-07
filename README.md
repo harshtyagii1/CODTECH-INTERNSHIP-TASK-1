@@ -2,6 +2,7 @@ Name: Harsh Tyagi
 Company: CODTECH IT SOLUTIONS
 ID: CTO8DS6383
 Domain: Web Development
+Duration: August To September
 Mentor: Santosh Kumar
 
 Overview of Weather App
